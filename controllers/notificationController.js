@@ -1,0 +1,1 @@
+const { globalObjects } = require("../server");
